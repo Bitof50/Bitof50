@@ -1,5 +1,5 @@
 # Repositorio de Bito
-![Imagen de Portada](f_H2JPRA_400x400.jpg)
+![Imagen de Portada](CarpetaGit/f_H2JPRA_400x400.jpg)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
