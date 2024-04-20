@@ -1,5 +1,5 @@
 # Repositorio de Bito
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](f_H2JPRA_400x400.jpg)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
