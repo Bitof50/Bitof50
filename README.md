@@ -2,16 +2,12 @@
 ![Imagen de Portada](CarpetaGit/f_H2JPRA_400x400.jpg)
 
 ## Descripción
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Metin2 Wiki
 ## Características
-- Característica 1
-- Característica 2
-- Característica 3
-## Instalación
-Instrucciones para instalar y configurar el proyecto.
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
+- Todo tipo de información
+## Búsqueda
+![URL](https://es-wiki.metin2.gameforge.com/index.php/P%C3%A1gina_principal)
 ## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
+Bito.
 ## Licencia
-Licencia bajo la cual se distribuye el proyecto.
+Gameforge.
