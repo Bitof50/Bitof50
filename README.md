@@ -1,4 +1,4 @@
-# Repositorio de Bito
+# Repositorio de Rafa.
 ![Imagen de Portada](CarpetaGit/f_H2JPRA_400x400.jpg)
 
 ## Descripción
@@ -8,6 +8,6 @@ Metin2 Wiki
 ## Búsqueda
 [URL](https://es-wiki.metin2.gameforge.com/index.php/P%C3%A1gina_principal)
 ## Contribución
-Bito.
+Rafa.
 ## Licencia
 Gameforge.
