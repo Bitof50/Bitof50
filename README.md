@@ -6,7 +6,7 @@ Metin2 Wiki
 ## Características
 - Todo tipo de información
 ## Búsqueda
-![URL](https://es-wiki.metin2.gameforge.com/index.php/P%C3%A1gina_principal)
+[URL](https://es-wiki.metin2.gameforge.com/index.php/P%C3%A1gina_principal)
 ## Contribución
 Bito.
 ## Licencia
