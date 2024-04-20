@@ -1,5 +1,6 @@
 # Repositorio de Bito
-![Imagen de Portada]()
+![Imagen de Portada](url_de_la_imagen)
+
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
